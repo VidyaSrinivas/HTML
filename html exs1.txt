@@ -1,0 +1,36 @@
+<html>
+<head>
+<BASE href = "E:/VIDYA/HTML/">
+<title>Website</title>
+</head>
+<body>
+<img src = "IMAGES/logo.gif"  width=100 height=100> 
+<HEADER>
+<nav>
+  <a href="Home.html">HOME</a>|
+  <a href="aboutus.html">AboutUs</a>|
+  <a href="careers.html">Carreers</a>|
+  <a href="contactus.html">Contact US</a>
+</nav>
+</HEADER>
+
+<h1>Our College Campus..</h1>
+<img src = "IMAGES/Campusimage1.png" width=200 height=200> 
+<img src = "IMAGES/Campusimage2.png" width=200 height=200>
+<img src = "IMAGES/Campusimage3.jpg" width=200 height=200>
+<img src = "IMAGES/Campusimage4.jpg" width=200 height=200>
+<img src = "IMAGES/Campusimage5.jpg" width=200 height=200>
+
+<p>Skylight University is a small township in itself. Rich in natural flora and fauna to begin with,
+ the campus' green cover has been maintained and even increased over the years. <br>An island of green in the otherwise concrete jungle that is Mumbai, 
+ the campus at Powai nestles among hills and is flanked by the Powai and Vihar lakes. </br> It is special both in terms of its physical beauty and 
+ location — a place where you can be away from the busy world, yet still be a part of it.<br> Education and research are the twin pillars of this institute and 
+ the ambience is one in which new ideas and creativity can flourish. .</br></p>
+ <ul>
+  <li>Bangaluru</li>
+  <li>hubli</li>
+  <li>mysore</li>
+</ul>  
+
+</body>
+</html>
